@@ -8,6 +8,10 @@ The solution allows the user to enter the number of nodes that is desired. The b
 
 The Final Project Report can be found in \Bellman-Ford-Visualisation\FPR
 
+## Video Presentation
+
+The Final Project Report can be found in \Bellman-Ford-Visualisation\Video Presentation
+
 ## Prerequisites:
 networkkx 2.2.1. For EnthoughCanopy: (Canopy -> Package manager -> Available -> networkkx -> Install)
 
