@@ -1,4 +1,4 @@
-# MMSbellman-ford
+# Bellman-Ford-Visualization
 The implementation and visualization of the Bellman-Ford algorithm.
 
 ## Description
